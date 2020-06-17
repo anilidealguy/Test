@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<currency_list>
+	<record>
+            <iso_code>AED</iso_code>
+            <currency_name>UAE Dirham</currency_name>
+            <country>UAE</country>
+    </record>
+    <record>
+            <iso_code>AFN</iso_code>
+            <currency_name>Afghani</currency_name>
+            <country>Afghanistan</country>
+    </record>
+    <record>
+            <iso_code>ALL</iso_code>
+            <currency_name>Lek</currency_name>
+            <country>Albania</country>
+    </record>
+    <record>
+            <iso_code>AMD</iso_code>
+            <currency_name>Armenian Dram</currency_name>
+            <country>Armenia</country>
+    </record>
+    <record>
+            <iso_code>ANG</iso_code>
+            <currency_name>Antillean Guilder</currency_name>
+            <country>Curacao</country>
+    </record>
+    <record>
+            <iso_code>AOA</iso_code>
+            <currency_name>Kwanza</currency_name>
+            <country>Angola</country>
+    </record>
+    <record>
+            <iso_code>ARS</iso_code>
+            <currency_name>Argentine Peso</currency_name>
+            <country>Argentina</country>
+    </record>
+    <record>
+            <iso_code>AUD</iso_code>
+            <currency_name>Australian Dollar</currency_name>
+            <country>Australia</country>
+    </record>
+    <record>
+            <iso_code>AUD</iso_code>
+            <currency_name>Australian Dollar</currency_name>
+            <country>Kiribati</country>
+    </record>
+    <record>
+            <iso_code>AWG</iso_code>
+            <currency_name>Aruban Guilder/Florin</currency_name>
+            <country>Aruba</country>
+    </record>
+    <record>
+            <iso_code>AZN</iso_code>
+            <currency_name>Azerbaijanian Manat</currency_name>
+            <country>Azerbaijan</country>
+    </record>
+    <record>
+            <iso_code>BAM</iso_code>
+            <currency_name>Konvertibilna Marka</currency_name>
+            <country>Bosnia and Herzegovina</country>
+    </record>
+    <record>
+            <iso_code>BBD</iso_code>
+            <currency_name>Barbados Dollar</currency_name>
+            <country>Barbados</country>
+    </record>
+    <record>
+            <iso_code>BDT</iso_code>
+            <currency_name>Taka</currency_name>
+            <country>Bangladesh</country>
+    </record>
+    <record>
+            <iso_code>BGN</iso_code>
+            <currency_name>Bulgarian Lev</currency_name>
+            <country>Bulgaria</country>
+    </record>
+    <record>
+            <iso_code>BHD</iso_code>
+            <currency_name>Bahraini Dinar</currency_name>
+            <country>Bahrain</country>
+    </record>
+    <record>
+            <iso_code>BIF</iso_code>
+            <currency_name>Burundi Franc</currency_name>
+            <country>Burundi</country>
+    </record>
+    <record>
+            <iso_code>BMD</iso_code>
+            <currency_name>Bermudian Dollar</currency_name>
+            <country>Bermuda</country>
+    </record>
+    <record>
+            <iso_code>BND</iso_code>
+            <currency_name>Brunei Dollar</currency_name>
+            <country>Brunei</country>
+    </record>
+    <record>
+            <iso_code>BND</iso_code>
+            <currency_name>Brunei Dollar</currency_name>
+            <country>Singapore</country>
+    </record>
+    <record>
+            <iso_code>BOB</iso_code>
+            <currency_name>Boliviano</currency_name>
+            <country>Bolivia</country>
+    </record>
+    <record>
+            <iso_code>BRL</iso_code>
+            <currency_name>Brazilian Real</currency_name>
+            <country>Brazil</country>
+    </record>
+    <record>
+            <iso_code>BSD</iso_code>
+            <currency_name>Bahamian Dollar</currency_name>
+            <country>Bahamas</country>
+    </record>
+    <record>
+            <iso_code>BTN</iso_code>
+            <currency_name>Ngultrum</currency_name>
+            <country>Bhutan</country>
+    </record>
+    <record>
+            <iso_code>BWP</iso_code>
+            <currency_name>Pula</currency_name>
+            <country>Botswana</country>
+    </record>
+    <record>
+            <iso_code>BYN</iso_code>
+            <currency_name>Belarusian Ruble</currency_name>
+            <country>Belarus</country>
+    </record>
+    <record>
+            <iso_code>BZD</iso_code>
+            <currency_name>Belize Dollar</currency_name>
+            <country>Belize</country>
+    </record>
+    <record>
+            <iso_code>CAD</iso_code>
+            <currency_name>Canadian Dollar</currency_name>
+            <country>Canada</country>
+    </record>
+    <record>
+            <iso_code>CDF</iso_code>
+            <currency_name>Congolese Franc</currency_name>
+            <country>Congo (Kinshasa)</country>
+    </record>
+    <record>
+            <iso_code>CHF</iso_code>
+            <currency_name>Swiss Franc</currency_name>
+            <country>Liechtenstein</country>
+    </record>
+    <record>
+            <iso_code>CHF</iso_code>
+            <currency_name>Swiss Franc</currency_name>
+            <country>Switzerland</country>
+    </record>
+    <record>
+            <iso_code>CLP</iso_code>
+            <currency_name>Chilean Peso</currency_name>
+            <country>Chile</country>
+    </record>
+    <record>
+            <iso_code>CNY</iso_code>
+            <currency_name>Yuan</currency_name>
+            <country>China</country>
+    </record>
+    <record>
+            <iso_code>COP</iso_code>
+            <currency_name>Colombian Peso</currency_name>
+            <country>Colombia</country>
+    </record>
+    <record>
+            <iso_code>CRC</iso_code>
+            <currency_name>Costa Rican Colon</currency_name>
+            <country>Costa Rica</country>
+    </record>
+    <record>
+            <iso_code>CUP</iso_code>
+            <currency_name>Cuban Peso</currency_name>
+            <country>Cuba</country>
+    </record>
+    <record>
+            <iso_code>CVE</iso_code>
+            <currency_name>Cape Verde Escudo</currency_name>
+            <country>Cabo Verde</country>
+    </record>
+    <record>
+            <iso_code>CZK</iso_code>
+            <currency_name>Czech Koruna</currency_name>
+            <country>Czech Republic</country>
+    </record>
+    <record>
+            <iso_code>DJF</iso_code>
+            <currency_name>Djibouti Franc</currency_name>
+            <country>Djibouti</country>
+    </record>
+    <record>
+            <iso_code>DKK</iso_code>
+            <currency_name>Danish Krone</currency_name>
+            <country>Denmark</country>
+    </record>
+    <record>
+            <iso_code>DOP</iso_code>
+            <currency_name>Dominican Peso</currency_name>
+            <country>Dominican Republic</country>
+    </record>
+    <record>
+            <iso_code>DZD</iso_code>
+            <currency_name>Algerian Dinar</currency_name>
+            <country>Algeria</country>
+    </record>
+    <record>
+            <iso_code>EGP</iso_code>
+            <currency_name>Egyptian Pound</currency_name>
+            <country>Egypt</country>
+    </record>
+    <record>
+            <iso_code>EHP</iso_code>
+            <currency_name>Sahrawi peseta</currency_name>
+            <country>Western Sahara</country>
+    </record>
+    <record>
+            <iso_code>ERN</iso_code>
+            <currency_name>Nakfa</currency_name>
+            <country>Eritrea</country>
+    </record>
+    <record>
+            <iso_code>ETB</iso_code>
+            <currency_name>Ethiopian Birr</currency_name>
+            <country>Ethiopia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Akrotiri and Dhekelia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Andorra</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Austria</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Belgium</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Cyprus</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Estonia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Finland</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>France</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Germany</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Greece</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Ireland</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Italy</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Kosovo</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Latvia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Lithuania</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Luxembourg</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Malta</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Monaco</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Montenegro</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Netherlands</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Portugal</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>San-Marino</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Slovakia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Slovenia</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Spain</country>
+    </record>
+    <record>
+            <iso_code>EUR</iso_code>
+            <currency_name>Euro</currency_name>
+            <country>Vatican</country>
+    </record>
+    <record>
+            <iso_code>FOK</iso_code>
+            <currency_name>Faroese krona</currency_name>
+            <country>Faroe Islands</country>
+    </record>
+    <record>
+            <iso_code>FJD</iso_code>
+            <currency_name>Fiji Dollar</currency_name>
+            <country>Fiji</country>
+    </record>
+    <record>
+            <iso_code>FKP</iso_code>
+            <currency_name>Falkland Islands Pound</currency_name>
+            <country>Falkland Islands</country>
+    </record>
+    <record>
+            <iso_code>GBP</iso_code>
+            <currency_name>Pound Sterling</currency_name>
+            <country>British Indian Ocean Territory</country>
+    </record>
+    <record>
+            <iso_code>GBP</iso_code>
+            <currency_name>Pound Sterling</currency_name>
+            <country>Great Britain</country>
+    </record>
+    <record>
+            <iso_code>GEL</iso_code>
+            <currency_name>Lari</currency_name>
+            <country>Georgia</country>
+    </record>
+    <record>
+            <iso_code>GGP</iso_code>
+            <currency_name>Guernsey Pound</currency_name>
+            <country>Guernsey</country>
+    </record>
+    <record>
+            <iso_code>GHS</iso_code>
+            <currency_name>Cedi</currency_name>
+            <country>Ghana</country>
+    </record>
+    <record>
+            <iso_code>GIP</iso_code>
+            <currency_name>Gibraltar Pound</currency_name>
+            <country>Gibraltar</country>
+    </record>
+    <record>
+            <iso_code>GMD</iso_code>
+            <currency_name>Dalasi</currency_name>
+            <country>Gambia</country>
+    </record>
+    <record>
+            <iso_code>GNF</iso_code>
+            <currency_name>Guinea Franc</currency_name>
+            <country>Guinea</country>
+    </record>
+    <record>
+            <iso_code>GTQ</iso_code>
+            <currency_name>Quetzal</currency_name>
+            <country>Guatemala</country>
+    </record>
+    <record>
+            <iso_code>GYD</iso_code>
+            <currency_name>Guyana Dollar</currency_name>
+            <country>Guyana</country>
+    </record>
+    <record>
+            <iso_code>HKD</iso_code>
+            <currency_name>Hong Kong Dollar</currency_name>
+            <country>Hong Kong</country>
+    </record>
+    <record>
+            <iso_code>HNL</iso_code>
+            <currency_name>Lempira</currency_name>
+            <country>Honduras</country>
+    </record>
+    <record>
+            <iso_code>HRK</iso_code>
+            <currency_name>Croatian Kuna</currency_name>
+            <country>Croatia</country>
+    </record>
+    <record>
+            <iso_code>HTG</iso_code>
+            <currency_name>Gourde</currency_name>
+            <country>Haiti</country>
+    </record>
+    <record>
+            <iso_code>HUF</iso_code>
+            <currency_name>Forint</currency_name>
+            <country>Hungary</country>
+    </record>
+    <record>
+            <iso_code>IDR</iso_code>
+            <currency_name>Rupiah</currency_name>
+            <country>Indonesia</country>
+    </record>
+    <record>
+            <iso_code>ILS</iso_code>
+            <currency_name>New Israeli Shekel</currency_name>
+            <country>Israel</country>
+    </record>
+    <record>
+            <iso_code>ILS</iso_code>
+            <currency_name>New Israeli Shekel</currency_name>
+            <country>Palestine</country>
+    </record>
+    <record>
+            <iso_code>IMP</iso_code>
+            <currency_name>Manx Pound</currency_name>
+            <country>Isle of Man</country>
+    </record>
+    <record>
+            <iso_code>INR</iso_code>
+            <currency_name>Indian Rupee</currency_name>
+            <country>Bhutan</country>
+    </record>
+    <record>
+            <iso_code>INR</iso_code>
+            <currency_name>Indian Rupee</currency_name>
+            <country>India</country>
+    </record>
+    <record>
+            <iso_code>IQD</iso_code>
+            <currency_name>Iraqi Dinar</currency_name>
+            <country>Iraq</country>
+    </record>
+    <record>
+            <iso_code>IRR</iso_code>
+            <currency_name>Iranian Rial</currency_name>
+            <country>Iran</country>
+    </record>
+    <record>
+            <iso_code>ISK</iso_code>
+            <currency_name>Iceland Krona</currency_name>
+            <country>Iceland</country>
+    </record>
+    <record>
+            <iso_code>JEP</iso_code>
+            <currency_name>Jerysey Pound</currency_name>
+            <country>Jersey</country>
+    </record>
+    <record>
+            <iso_code>JMD</iso_code>
+            <currency_name>Jamaican Dollar</currency_name>
+            <country>Jamaica</country>
+    </record>
+    <record>
+            <iso_code>JOD</iso_code>
+            <currency_name>Jordanian Dinar</currency_name>
+            <country>Jordan</country>
+    </record>
+    <record>
+            <iso_code>JPY</iso_code>
+            <currency_name>Yen</currency_name>
+            <country>Japan</country>
+    </record>
+    <record>
+            <iso_code>KES</iso_code>
+            <currency_name>Kenyan Shilling</currency_name>
+            <country>Kenya</country>
+    </record>
+    <record>
+            <iso_code>KGS</iso_code>
+            <currency_name>Som</currency_name>
+            <country>Kyrgyzstan</country>
+    </record>
+    <record>
+            <iso_code>KHR</iso_code>
+            <currency_name>Riel</currency_name>
+            <country>Cambodia</country>
+    </record>
+    <record>
+            <iso_code>KID</iso_code>
+            <currency_name>Kiribati Dollar</currency_name>
+            <country>Kiribati</country>
+    </record>
+    <record>
+            <iso_code>KMF</iso_code>
+            <currency_name>Comorian franc</currency_name>
+            <country>Comoros</country>
+    </record>
+    <record>
+            <iso_code>KPW</iso_code>
+            <currency_name>North Korean Won</currency_name>
+            <country>North Korea</country>
+    </record>
+    <record>
+            <iso_code>KRW</iso_code>
+            <currency_name>South Korean Won</currency_name>
+            <country>South Korea</country>
+    </record>
+    <record>
+            <iso_code>KWD</iso_code>
+            <currency_name>Kuwaiti Dinar</currency_name>
+            <country>Kuwait</country>
+    </record>
+    <record>
+            <iso_code>KYD</iso_code>
+            <currency_name>Cayman Islands Dollar</currency_name>
+            <country>Cayman Islands</country>
+    </record>
+    <record>
+            <iso_code>KZT</iso_code>
+            <currency_name>Tenge</currency_name>
+            <country>Kazakhstan</country>
+    </record>
+    <record>
+            <iso_code>LAK</iso_code>
+            <currency_name>Kip</currency_name>
+            <country>Laos</country>
+    </record>
+    <record>
+            <iso_code>LBP</iso_code>
+            <currency_name>Lebanese Pound</currency_name>
+            <country>Lebanon</country>
+    </record>
+    <record>
+            <iso_code>LKR</iso_code>
+            <currency_name>Sri Lanka Rupee</currency_name>
+            <country>Sri Lanka</country>
+    </record>
+    <record>
+            <iso_code>LRD</iso_code>
+            <currency_name>Liberian Dollar</currency_name>
+            <country>Liberia</country>
+    </record>
+    <record>
+            <iso_code>LSL</iso_code>
+            <currency_name>Loti</currency_name>
+            <country>Lesotho</country>
+    </record>
+    <record>
+            <iso_code>LYD</iso_code>
+            <currency_name>Libyan Dinar</currency_name>
+            <country>Libya</country>
+    </record>
+    <record>
+            <iso_code>MAD</iso_code>
+            <currency_name>Moroccan Dirham</currency_name>
+            <country>Morocco</country>
+    </record>
+    <record>
+            <iso_code>MDL</iso_code>
+            <currency_name>Moldovan Leu</currency_name>
+            <country>Moldova</country>
+    </record>
+    <record>
+            <iso_code>MGA</iso_code>
+            <currency_name>Malagasy Ariary</currency_name>
+            <country>Madagascar</country>
+    </record>
+    <record>
+            <iso_code>MKD</iso_code>
+            <currency_name>Denar</currency_name>
+            <country>Macedonia</country>
+    </record>
+    <record>
+            <iso_code>MMK</iso_code>
+            <currency_name>Kyat</currency_name>
+            <country>Myanmar (Burma)</country>
+    </record>
+    <record>
+            <iso_code>MNT</iso_code>
+            <currency_name>Tugrik</currency_name>
+            <country>Mongolia</country>
+    </record>
+    <record>
+            <iso_code>MOP</iso_code>
+            <currency_name>Pataca</currency_name>
+            <country>Macao</country>
+    </record>
+    <record>
+            <iso_code>MRO</iso_code>
+            <currency_name>Mauritanian ouguiya</currency_name>
+            <country>Mauritania</country>
+    </record>
+    <record>
+            <iso_code>MUR</iso_code>
+            <currency_name>Mauritius Rupee</currency_name>
+            <country>Mauritius</country>
+    </record>
+    <record>
+            <iso_code>MVR</iso_code>
+            <currency_name>Rufiyaa</currency_name>
+            <country>Maldives</country>
+    </record>
+    <record>
+            <iso_code>MWK</iso_code>
+            <currency_name>Kwacha</currency_name>
+            <country>Malawi</country>
+    </record>
+    <record>
+            <iso_code>MXN</iso_code>
+            <currency_name>Mexican Peso</currency_name>
+            <country>Mexico</country>
+    </record>
+    <record>
+            <iso_code>MYR</iso_code>
+            <currency_name>Malaysian Ringgit</currency_name>
+            <country>Malaysia</country>
+    </record>
+    <record>
+            <iso_code>MZN</iso_code>
+            <currency_name>Metical</currency_name>
+            <country>Mozambique</country>
+    </record>
+    <record>
+            <iso_code>NAD</iso_code>
+            <currency_name>Namibia Dollar</currency_name>
+            <country>Namibia</country>
+    </record>
+    <record>
+            <iso_code>NGN</iso_code>
+            <currency_name>Naira</currency_name>
+            <country>Nigeria</country>
+    </record>
+    <record>
+            <iso_code>NIO</iso_code>
+            <currency_name>Cordoba Oro</currency_name>
+            <country>Nicaragua</country>
+    </record>
+    <record>
+            <iso_code>NOK</iso_code>
+            <currency_name>Norwegian Krone</currency_name>
+            <country>Norway</country>
+    </record>
+    <record>
+            <iso_code>NPR</iso_code>
+            <currency_name>Nepalese Rupee</currency_name>
+            <country>Nepal</country>
+    </record>
+    <record>
+            <iso_code>NZD</iso_code>
+            <currency_name>New Zealand Dollar</currency_name>
+            <country>Cook Islands</country>
+    </record>
+    <record>
+            <iso_code>NZD</iso_code>
+            <currency_name>New Zealand Dollar</currency_name>
+            <country>New Zealand</country>
+    </record>
+    <record>
+            <iso_code>NZD</iso_code>
+            <currency_name>New Zealand Dollar</currency_name>
+            <country>Niue</country>
+    </record>
+    <record>
+            <iso_code>NZD</iso_code>
+            <currency_name>New Zealand Dollar</currency_name>
+            <country>Pitcairn</country>
+    </record>
+    <record>
+            <iso_code>OMR</iso_code>
+            <currency_name>Rial Omani</currency_name>
+            <country>Oman</country>
+    </record>
+    <record>
+            <iso_code>PAB</iso_code>
+            <currency_name>Balboa</currency_name>
+            <country>Panama</country>
+    </record>
+    <record>
+            <iso_code>PEN</iso_code>
+            <currency_name>Nuevo Sol</currency_name>
+            <country>Peru</country>
+    </record>
+    <record>
+            <iso_code>PGK</iso_code>
+            <currency_name>Kina</currency_name>
+            <country>Papua New Guinea</country>
+    </record>
+    <record>
+            <iso_code>PHP</iso_code>
+            <currency_name>Philippine Peso</currency_name>
+            <country>Philippines</country>
+    </record>
+    <record>
+            <iso_code>PKR</iso_code>
+            <currency_name>Pakistan Rupee</currency_name>
+            <country>Pakistan</country>
+    </record>
+    <record>
+            <iso_code>PLN</iso_code>
+            <currency_name>PZloty</currency_name>
+            <country>Poland</country>
+    </record>
+    <record>
+            <iso_code>PYG</iso_code>
+            <currency_name>Guarani</currency_name>
+            <country>Paraguay</country>
+    </record>
+    <record>
+            <iso_code>QAR</iso_code>
+            <currency_name>Qatari Rial</currency_name>
+            <country>Qatar</country>
+    </record>
+    <record>
+            <iso_code>RON</iso_code>
+            <currency_name>Leu</currency_name>
+            <country>Romania</country>
+    </record>
+    <record>
+            <iso_code>RSD</iso_code>
+            <currency_name>Serbian Dinar</currency_name>
+            <country>Serbia</country>
+    </record>
+    <record>
+            <iso_code>RUB</iso_code>
+            <currency_name>Russian Ruble</currency_name>
+            <country>Russia</country>
+    </record>
+    <record>
+            <iso_code>RUB</iso_code>
+            <currency_name>Russian Ruble</currency_name>
+            <country>South Ossetia</country>
+    </record>
+    <record>
+            <iso_code>RWF</iso_code>
+            <currency_name>Rwanda Franc</currency_name>
+            <country>Rwanda</country>
+    </record>
+    <record>
+            <iso_code>SAR</iso_code>
+            <currency_name>Saudi Riyal</currency_name>
+            <country>Saudi Arabia</country>
+    </record>
+    <record>
+            <iso_code>SBD</iso_code>
+            <currency_name>Solomon Islands Dollar</currency_name>
+            <country>Solomon Islands</country>
+    </record>
+    <record>
+            <iso_code>SCR</iso_code>
+            <currency_name>Seychelles Rupee</currency_name>
+            <country>Seychelles</country>
+    </record>
+    <record>
+            <iso_code>SDG</iso_code>
+            <currency_name>Sudanese Pound</currency_name>
+            <country>Sudan</country>
+    </record>
+    <record>
+            <iso_code>SEK</iso_code>
+            <currency_name>Swedish Krona</currency_name>
+            <country>Sweden</country>
+    </record>
+    <record>
+            <iso_code>SGD</iso_code>
+            <currency_name>Singapore Dollar</currency_name>
+            <country>Brunei</country>
+    </record>
+    <record>
+            <iso_code>SGD</iso_code>
+            <currency_name>Singapore Dollar</currency_name>
+            <country>Singapore</country>
+    </record>
+    <record>
+            <iso_code>SHP</iso_code>
+            <currency_name>Saint Helena Pound</currency_name>
+            <country>Saint Helena, Ascension and Tristan da Cunha</country>
+    </record>
+    <record>
+            <iso_code>SLL</iso_code>
+            <currency_name>Leone</currency_name>
+            <country>Sierra Leone</country>
+    </record>
+    <record>
+            <iso_code>SOS</iso_code>
+            <currency_name>Somali Shilling</currency_name>
+            <country>Somalia</country>
+    </record>
+    <record>
+            <iso_code>SRD</iso_code>
+            <currency_name>Suriname Dollar</currency_name>
+            <country>Suriname</country>
+    </record>
+    <record>
+            <iso_code>SSP</iso_code>
+            <currency_name>South Sudanese Pound</currency_name>
+            <country>South Sudan</country>
+    </record>
+    <record>
+            <iso_code>STD</iso_code>
+            <currency_name>Dobra</currency_name>
+            <country>Sao Tome and Principe</country>
+    </record>
+    <record>
+            <iso_code>SYP</iso_code>
+            <currency_name>Syrian Pound</currency_name>
+            <country>Syria</country>
+    </record>
+    <record>
+            <iso_code>SZL</iso_code>
+            <currency_name>Lilangeni</currency_name>
+            <country>Swaziland</country>
+    </record>
+    <record>
+            <iso_code>THB</iso_code>
+            <currency_name>Baht</currency_name>
+            <country>Thailand</country>
+    </record>
+    <record>
+            <iso_code>TJS</iso_code>
+            <currency_name>Somoni</currency_name>
+            <country>Tajikistan</country>
+    </record>
+    <record>
+            <iso_code>TMT</iso_code>
+            <currency_name>Manat</currency_name>
+            <country>Turkmenistan</country>
+    </record>
+    <record>
+            <iso_code>TND</iso_code>
+            <currency_name>Tunisian Dinar</currency_name>
+            <country>Tunisia</country>
+    </record>
+    <record>
+            <iso_code>TOP</iso_code>
+            <currency_name>Pa?anga</currency_name>
+            <country>Tonga</country>
+    </record>
+    <record>
+            <iso_code>TRY</iso_code>
+            <currency_name>Turkish Lira</currency_name>
+            <country>Turkey</country>
+    </record>
+    <record>
+            <iso_code>TTD</iso_code>
+            <currency_name>Trinidad and Tobago Dollar</currency_name>
+            <country>Trinidad and Tobago</country>
+    </record>
+    <record>
+            <iso_code>TVD</iso_code>
+            <currency_name>Tuvalu Dollar</currency_name>
+            <country>Tuvalu</country>
+    </record>
+    <record>
+            <iso_code>TWD</iso_code>
+            <currency_name>Taiwan Dollar</currency_name>
+            <country>Taiwan</country>
+    </record>
+    <record>
+            <iso_code>TZS</iso_code>
+            <currency_name>Tanzanian Shilling</currency_name>
+            <country>united Republic of Tanzania</country>
+    </record>
+    <record>
+            <iso_code>UAH</iso_code>
+            <currency_name>Hryvnia</currency_name>
+            <country>Ukraine</country>
+    </record>
+    <record>
+            <iso_code>UGX</iso_code>
+            <currency_name>Uganda Shilling</currency_name>
+            <country>Uganda</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>American Samoa</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>British Indian Ocean Territory</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>British Virgin Islands</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Guam</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Haiti</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Marshall Islands</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Micronesia</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Northern Mariana Islands</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Pacific Remote islands</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Palau</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Panama</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Puerto Rico</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>Turks and Caicos Islands</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>United States of America</country>
+    </record>
+    <record>
+            <iso_code>USD</iso_code>
+            <currency_name>US Dollar</currency_name>
+            <country>US Virgin Islands</country>
+    </record>
+    <record>
+            <iso_code>UYU</iso_code>
+            <currency_name>Peso Uruguayo</currency_name>
+            <country>Uruguay</country>
+    </record>
+    <record>
+            <iso_code>UZS</iso_code>
+            <currency_name>Uzbekistan Sum</currency_name>
+            <country>Uzbekistan</country>
+    </record>
+    <record>
+            <iso_code>VEF</iso_code>
+            <currency_name>Bolivar Fuerte</currency_name>
+            <country>Venezuela</country>
+    </record>
+    <record>
+            <iso_code>VND</iso_code>
+            <currency_name>Dong</currency_name>
+            <country>Vietnam</country>
+    </record>
+    <record>
+            <iso_code>VUV</iso_code>
+            <currency_name>Vatu</currency_name>
+            <country>Vanuatu</country>
+    </record>
+    <record>
+            <iso_code>WST</iso_code>
+            <currency_name>Tala</currency_name>
+            <country>Samoa</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Cameroon</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Central African Republic</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Chad</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Congo (Brazzaville)</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Equatorial Guinea</country>
+    </record>
+    <record>
+            <iso_code>XAF</iso_code>
+            <currency_name>CFA Franc BCEAO</currency_name>
+            <country>Gabon</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Anguilla</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Antigua and Barbuda</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Dominica</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Grenada</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Montserrat</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Saint Kitts and Nevis</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Saint Lucia</country>
+    </record>
+    <record>
+            <iso_code>XCD</iso_code>
+            <currency_name>East Caribbean Dollar</currency_name>
+            <country>Saint Vincent and Grenadine</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Benin</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Burkina Faso</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Guinea-Bissau</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Mali</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Niger</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Senegal</country>
+    </record>
+    <record>
+            <iso_code>XOF</iso_code>
+            <currency_name>West Afircan CFA Franc</currency_name>
+            <country>Togo</country>
+    </record>
+    <record>
+            <iso_code>XPF</iso_code>
+            <currency_name>CFP Franc</currency_name>
+            <country>French Polynesia</country>
+    </record>
+    <record>
+            <iso_code>XPF</iso_code>
+            <currency_name>CFP Franc</currency_name>
+            <country>New Caledonia</country>
+    </record>
+    <record>
+            <iso_code>XPF</iso_code>
+            <currency_name>CFP Franc</currency_name>
+            <country>Wallis and Futuna</country>
+    </record>
+    <record>
+            <iso_code>YER</iso_code>
+            <currency_name>Yemeni Rial</currency_name>
+            <country>Yemen</country>
+    </record>
+    <record>
+            <iso_code>ZAR</iso_code>
+            <currency_name>Rand</currency_name>
+            <country>Lesotho</country>
+    </record>
+    <record>
+            <iso_code>ZAR</iso_code>
+            <currency_name>Rand</currency_name>
+            <country>Namibia</country>
+    </record>
+    <record>
+            <iso_code>ZAR</iso_code>
+            <currency_name>Rand</currency_name>
+            <country>South Africa</country>
+    </record>
+    <record>
+            <iso_code>ZMW</iso_code>
+            <currency_name>Zambian Kwacha</currency_name>
+            <country>Zambia</country></record>
+    <record>
+            <iso_code>ZWL</iso_code>
+            <currency_name>Zimbabwe Dollar</currency_name>
+            <country>Zimbabwe</country>
+    </record>
+</currency_list>
